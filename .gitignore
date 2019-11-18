@@ -1,0 +1,9 @@
+node_modules/
+*.js.map
+DB_column.txt
+orderlist.json
+阿督post結果.json
+test.js
+test1.js
+shopCarBot流程.txt
+trade api.txt
